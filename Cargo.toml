@@ -1,0 +1,6 @@
+[package]
+name = "RPGBattle"
+version = "0.1.0"
+authors = ["hogehoge1298 <hogehoge1298@gmail.com>"]
+
+[dependencies]
